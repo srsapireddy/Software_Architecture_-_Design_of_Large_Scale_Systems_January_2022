@@ -54,3 +54,11 @@ c. Microsoft Azure Service Bus - Fully managed enterprise message broker with me
 2. Cloud-Based API Gateways</br>
 a. Amazon API Gateway- Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. Supports RESTful APIs and WebSocket APIs (bi-directional communication between client and server).</br>
 3. Google Cloud Platform API Gateway - Google Cloud Platform API Gateway enables you to provide secure access to your services through a well-defined REST API.</br>
+
+# CDN Solutions & Cloud Technologies</br>
+1. Cloudflare - Cloudflare offers ultra-fast static and dynamic content delivery over our global edge network. It helps reduce bandwidth costs and takes advantage of built-in unmetered DDoS protection.</br>
+2. Fastly - Fastly's Deliver@Edge is a modern, efficient, and highly configurable CDN that gives you the freedom to control how your content is cached so you can deliver the content your users want quickly.</br>
+3. Akamai - Akamai has a large variety of offerings for API Acceleration, Global Traffic Management, Image & Video Management, Media Delivery, and much more.</br>
+4. Amazon CloudFront - Amazon CloudFront is a content delivery network (CDN) service built for high performance, security, and developer convenience. Some of its use-cases include delivering fast secure websites, accelerating dynamic content delivery and APIs, live streaming, video-on-demand, and others.</br>
+5. Google Cloud Platform CDN - GCP CDN offers fast, reliable web and video content delivery with a global scale and reach.</br>
+6. Microsoft Azure Content Delivery Network Microsoft's CDN solution offers global coverage, full integration with Azure services, and a simple setup.</br>
