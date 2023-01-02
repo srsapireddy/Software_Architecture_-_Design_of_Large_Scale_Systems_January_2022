@@ -48,3 +48,9 @@ b. RabbitMQ - A widely deployed open source message broker. It is used worldwide
 a. Amazon Simple Queue Service (SQS) - Fully managed message queuing service that enables you to decouple and scale micro-services, distributed systems, and serverless applications.</br>
 b. GCP Pub/Sub and Cloud Tasks - Publisher/Subscriber and message queue solutions offered by Google Cloud Platform. See this article for comparison between the two offerings</br>
 c. Microsoft Azure Service Bus - Fully managed enterprise message broker with message queues and publish-subscribe topics</br>
+
+# Open Source API Gateways</br>
+1. Netflix Zuul - Zuul is a free and open-source application gateway written in Java that provides capabilities for dynamic routing, monitoring, resiliency, security, and more.</br>
+2. Cloud-Based API Gateways</br>
+a. Amazon API Gateway- Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. Supports RESTful APIs and WebSocket APIs (bi-directional communication between client and server).</br>
+3. Google Cloud Platform API Gateway - Google Cloud Platform API Gateway enables you to provide secure access to your services through a well-defined REST API.</br>
