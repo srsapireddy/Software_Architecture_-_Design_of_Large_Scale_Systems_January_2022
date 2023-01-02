@@ -38,3 +38,13 @@ c. Basic Load Balancer - Ideal for small scale application</br>
 a. Amazon Route 53 - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service.</br>
 b. Google Cloud Platform Load Balancer & Cloud DNS - Reliable, resilient, low-latency DNS serving from Google's worldwide network with everything you need to register, manage, and serve your domains.</br>
 c. Azure Traffic Manager - DNS-based load balancing</br>
+
+# Message Brokers Solutions & Cloud Technologies</br>
+1. Open Source Message Brokers</br>
+a. Apache Kafka - The most popular open-source message broker nowadays. Apache Kafka is a distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.</br>
+b. RabbitMQ - A widely deployed open source message broker. It is used worldwide at small startups and large enterprises.</br>
+
+2. Cloud Based Message Brokers</br>
+a. Amazon Simple Queue Service (SQS) - Fully managed message queuing service that enables you to decouple and scale micro-services, distributed systems, and serverless applications.</br>
+b. GCP Pub/Sub and Cloud Tasks - Publisher/Subscriber and message queue solutions offered by Google Cloud Platform. See this article for comparison between the two offerings</br>
+c. Microsoft Azure Service Bus - Fully managed enterprise message broker with message queues and publish-subscribe topics</br>
