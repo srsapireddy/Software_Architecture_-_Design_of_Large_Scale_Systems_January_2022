@@ -23,18 +23,18 @@ b. Network (Layer 4) Load Balancer - Ideal for load balancing of both TCP and UD
 c. Gateway Load Balancer - Ideal for deploying, scaling, and managing your third-party virtual appliances.
 d. Classic Load Balancer (Layer 4 and 7) - Ideal for routing traffic to EC2 instances.
 
-9. GCP - Cloud Load Balancing
-a. External HTTP(S) Load Balancer - Externally facing HTTP(s) (Layer 7) load balancer which enables you to run and scale your services behind an internal IP address.
-b. Internal HTTP(S) Load Balancer - Internal Layer 7 load balancer that enables you to run and scale your services behind an internal IP address.
-c. External TCP/UDP Network Load Balancer - Externally facing TCP/UDP (Layer 4) load balancer
-d. Internal TCP/UDP Load Balancer - Internally facing TCP/UDP (Layer 4) load balancer
+9. GCP - Cloud Load Balancing</br>
+a. External HTTP(S) Load Balancer - Externally facing HTTP(s) (Layer 7) load balancer which enables you to run and scale your services behind an internal IP address.</br>
+b. Internal HTTP(S) Load Balancer - Internal Layer 7 load balancer that enables you to run and scale your services behind an internal IP address.</br>
+c. External TCP/UDP Network Load Balancer - Externally facing TCP/UDP (Layer 4) load balancer</br>
+d. Internal TCP/UDP Load Balancer - Internally facing TCP/UDP (Layer 4) load balancer</br>
 
-10. Microsoft Azure Load Balancer
-a. Standard Load Balancer - Public and internal Layer 4 load balancer
-b. Gateway Load Balancer - High performance and high availability load balancer for third-party Network Virtual Appliances.
-c. Basic Load Balancer - Ideal for small scale application
+10. Microsoft Azure Load Balancer</br>
+a. Standard Load Balancer - Public and internal Layer 4 load balancer</br>
+b. Gateway Load Balancer - High performance and high availability load balancer for third-party Network Virtual Appliances.</br>
+c. Basic Load Balancer - Ideal for small scale application</br>
 
-11. GSLB Solutions
-a. Amazon Route 53 - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service.
-b. Google Cloud Platform Load Balancer & Cloud DNS - Reliable, resilient, low-latency DNS serving from Google's worldwide network with everything you need to register, manage, and serve your domains.
-c. Azure Traffic Manager - DNS-based load balancing
+11. GSLB Solutions</br>
+a. Amazon Route 53 - Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service.</br>
+b. Google Cloud Platform Load Balancer & Cloud DNS - Reliable, resilient, low-latency DNS serving from Google's worldwide network with everything you need to register, manage, and serve your domains.</br>
+c. Azure Traffic Manager - DNS-based load balancing</br>
