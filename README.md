@@ -62,3 +62,17 @@ a. Amazon API Gateway- Amazon API Gateway is a fully managed service that makes 
 4. Amazon CloudFront - Amazon CloudFront is a content delivery network (CDN) service built for high performance, security, and developer convenience. Some of its use-cases include delivering fast secure websites, accelerating dynamic content delivery and APIs, live streaming, video-on-demand, and others.</br>
 5. Google Cloud Platform CDN - GCP CDN offers fast, reliable web and video content delivery with a global scale and reach.</br>
 6. Microsoft Azure Content Delivery Network Microsoft's CDN solution offers global coverage, full integration with Azure services, and a simple setup.</br>
+
+# Non-Relational Databases - Solutions</br>
+1. Key/Value Stores Examples</br>
+a. Redis</br>
+b. Aerospike</br>
+c. Amazon DynamoDB</br>
+
+2. Document Store Examples</br>
+a. Cassandra</br>
+b. MongoDB</br>
+c. Graph Databases Examples</br>
+d. Amazon Neptune</br>
+
+3. NEO4J</br>
