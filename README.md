@@ -88,8 +88,8 @@ c. Azure Blob Storage -  Microsoft's massively scalable and secure object storag
 d. Alibaba Cloud OSS (Object Storage Service) - Fully managed enterprise-ready Object Storage Service to store and access any amount of data from anywhere.</br>
 
 2. Open Source and Third-Party Object Store Solutions</br>
-1. OpenIO - A software-defined open-source object storage solution ideal for Big Data, HPC, and AI. It is S3 compatible and can be deployed on-premises or cloud-hosted on any hardware that you choose.</br>
+a. OpenIO - A software-defined open-source object storage solution ideal for Big Data, HPC, and AI. It is S3 compatible and can be deployed on-premises or cloud-hosted on any hardware that you choose.</br>
 
-2. MinIO - High-performance, S3-compatible object storage. It is native to Kubernetes and 100% open source under GNU AGPL v3.</br>
+b. MinIO - High-performance, S3-compatible object storage. It is native to Kubernetes and 100% open source under GNU AGPL v3.</br>
 
-3. Ceph - Open-source, reliable and scalable storage. Ceph provides a unified storage service with object, block, and file interfaces from a single cluster built from commodity hardware components.</br>
+c. Ceph - Open-source, reliable and scalable storage. Ceph provides a unified storage service with object, block, and file interfaces from a single cluster built from commodity hardware components.</br>
