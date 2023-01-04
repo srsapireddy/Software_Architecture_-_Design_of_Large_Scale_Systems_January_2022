@@ -76,3 +76,20 @@ c. Graph Databases Examples</br>
 d. Amazon Neptune</br>
 
 3. NEO4J</br>
+
+# Scalable Unstructured Data Storage - Cloud and Open Source Solutions</br>
+1. Cloud-Based Object Store Solutions</br>
+a. Amazon S3 (Simple Storage Service) - Amazon's highly scalable cloud storage service that stores object data within buckets. Designed to store and protect any amount of data for various use cases, such as websites, cloud-native applications, backups, archiving machine learning, and analytics.</br>
+
+b. GCP Cloud Storage - Google Cloud's managed service for storing unstructured data for companies of all sizes</br>
+
+c. Azure Blob Storage -  Microsoft's massively scalable and secure object storage for cloud-native workloads, archives, data lakes, high-performance computing, and machine learning</br>
+
+d. Alibaba Cloud OSS (Object Storage Service) - Fully managed enterprise-ready Object Storage Service to store and access any amount of data from anywhere.</br>
+
+2. Open Source and Third-Party Object Store Solutions</br>
+1. OpenIO - A software-defined open-source object storage solution ideal for Big Data, HPC, and AI. It is S3 compatible and can be deployed on-premises or cloud-hosted on any hardware that you choose.</br>
+
+2. MinIO - High-performance, S3-compatible object storage. It is native to Kubernetes and 100% open source under GNU AGPL v3.</br>
+
+3. Ceph - Open-source, reliable and scalable storage. Ceph provides a unified storage service with object, block, and file interfaces from a single cluster built from commodity hardware components.</br>
